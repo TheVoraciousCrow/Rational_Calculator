@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6ab8cb9-8623-46a2-94e1-cfa3b531e0bb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Rational_Calculator/ExpressionComputation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Rational_Calculator/ExpressionParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Rational_Calculator/NewExpressionParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Rational_Calculator/ReduceFraction.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Rational_Calculator/Main.class" afterPath="$PROJECT_DIR$/out/production/Rational_Calculator/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src" afterPath="$PROJECT_DIR$/src" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionComputation.java" afterPath="$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionComputation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionParser.java" afterPath="$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionParser.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java" afterPath="$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DoubleValueCalculations/ReduceFraction.java" afterPath="$PROJECT_DIR$/src/DoubleValueCalculations/ReduceFraction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DoubleValueCalculations/ReduceLogarithm.java" afterPath="$PROJECT_DIR$/src/DoubleValueCalculations/ReduceLogarithm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="47" column="23" lean-forward="false" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+            <state relative-caret-position="155">
+              <caret line="44" column="54" lean-forward="true" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,8 +38,8 @@
       <file leaf-file-name="ExpressionParser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="707">
-              <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+            <state relative-caret-position="294">
+              <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -50,11 +48,11 @@
       <file leaf-file-name="NewExpressionParser.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="128" column="34" lean-forward="true" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
+            <state relative-caret-position="2310">
+              <caret line="174" column="25" lean-forward="true" selection-start-line="174" selection-start-column="25" selection-end-line="174" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#6516#6533#0" expanded="true" />
+                <element signature="e#6665#6682#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,8 +61,8 @@
       <file leaf-file-name="ExpressionComputation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionComputation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="253">
+              <caret line="60" column="58" lean-forward="false" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -73,8 +71,8 @@
       <file leaf-file-name="Testing.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/Testing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="196">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -83,8 +81,8 @@
       <file leaf-file-name="ReduceLogarithm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/ReduceLogarithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="140">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -93,8 +91,8 @@
       <file leaf-file-name="ReduceFraction.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/ReduceFraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            <state relative-caret-position="140">
+              <caret line="10" column="94" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="94" />
               <folding />
             </state>
           </provider>
@@ -131,16 +129,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/ExpressionEvaluation.java" />
         <option value="$PROJECT_DIR$/src/ReduceFraction.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ExpresssionComputation.java" />
         <option value="$PROJECT_DIR$/src/ExpressionParser.java" />
         <option value="$PROJECT_DIR$/src/NewExpressionParser.java" />
         <option value="$PROJECT_DIR$/src/ExpressionComputation.java" />
         <option value="$PROJECT_DIR$/src/ReduceLogarithm.java" />
-        <option value="$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionParser.java" />
+        <option value="$PROJECT_DIR$/src/DoubleValueCalculations/Testing.java" />
         <option value="$PROJECT_DIR$/src/DoubleValueCalculations/ReduceFraction.java" />
         <option value="$PROJECT_DIR$/src/DoubleValueCalculations/ReduceLogarithm.java" />
-        <option value="$PROJECT_DIR$/src/DoubleValueCalculations/Testing.java" />
+        <option value="$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionParser.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionComputation.java" />
         <option value="$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java" />
       </list>
@@ -375,7 +373,7 @@
       <option name="presentableId" value="Default" />
       <updated>1511145518397</updated>
       <workItem from="1511145519617" duration="56307000" />
-      <workItem from="1511998232689" duration="24378000" />
+      <workItem from="1511998232689" duration="29931000" />
     </task>
     <task id="LOCAL-00001" summary="Added functionality for doubles -&gt; fractions">
       <created>1512048542558</created>
@@ -384,11 +382,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512048542558</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added functionality to handle &quot;e&quot; and &quot;pi&quot;">
+      <created>1512056357776</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1512056357776</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80685000" />
+    <option name="totallyTimeSpent" value="86238000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -401,6 +406,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -410,7 +416,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -470,35 +476,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added functionality for doubles -&gt; fractions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added functionality for doubles -&gt; fractions" />
+    <MESSAGE value="Added functionality to handle &quot;e&quot; and &quot;pi&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added functionality to handle &quot;e&quot; and &quot;pi&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java</url>
-          <line>136</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionComputation.java</url>
-          <line>61</line>
-          <properties />
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java</url>
-          <line>122</line>
-          <properties />
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java</url>
-          <line>116</line>
-          <properties />
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionParser.java</url>
           <line>7</line>
@@ -506,25 +489,61 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionComputation.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java</url>
-          <line>251</line>
+          <line>252</line>
           <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java</url>
-          <line>205</line>
+          <line>206</line>
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/ReduceFraction.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java</url>
+          <line>187</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java</url>
+          <line>186</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="54" />
+      <option name="time" value="71" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -553,7 +572,7 @@
           <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#6516#6533#0" expanded="true" />
+            <element signature="e#6665#6682#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -575,63 +594,63 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ExpressionEvaluation.java" />
-    <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionParser.java">
+    <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/Testing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+        <state relative-caret-position="196">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/ReduceFraction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        <state relative-caret-position="140">
+          <caret line="10" column="94" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="94" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/Testing.java">
+    <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/ReduceLogarithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="294">
+          <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="47" column="23" lean-forward="false" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        <state relative-caret-position="155">
+          <caret line="44" column="54" lean-forward="true" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/ReduceLogarithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/ExpressionComputation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="253">
+          <caret line="60" column="58" lean-forward="false" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DoubleValueCalculations/NewExpressionParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="128" column="34" lean-forward="true" selection-start-line="128" selection-start-column="34" selection-end-line="128" selection-end-column="34" />
+        <state relative-caret-position="2310">
+          <caret line="174" column="25" lean-forward="true" selection-start-line="174" selection-start-column="25" selection-end-line="174" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#6516#6533#0" expanded="true" />
+            <element signature="e#6665#6682#0" expanded="true" />
           </folding>
         </state>
       </provider>
